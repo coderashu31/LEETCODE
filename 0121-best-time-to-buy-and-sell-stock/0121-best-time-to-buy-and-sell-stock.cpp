@@ -6,7 +6,7 @@ public:
         // Initialize sell (s) to 0
         int s = 0;
 
-        for (size_t i = 0; i < prices.size(); ++i) {
+        for (int i = 0; i < prices.size(); ++i) {
             // Update buy price if current price is lower
             if (prices[i] < b) {
                 b = prices[i];
