@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
