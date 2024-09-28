@@ -1,73 +1,67 @@
 class MyCircularDeque {
 
 private:
-    std::deque<int> dq;  // The deque container from STL
-    int maxSize;         // Maximum size of the deque
-
+    std::deque<int> dq;
+    int maxSize;
 public:
+
     // Initializes the deque with a maximum size of k.
-     MyCircularDeque(int k) {
+    MyCircularDeque(int k) {
         maxSize = k;
     }
-    
-    // Adds an item at the front of Deque. Returns true if successful, false otherwise.
+
+    // Adds an item at the front of Deque. 
+    // Returns true if the operation is successful, or false otherwise.
     bool insertFront(int value) {
-        if (dq.size() < maxSize) {
+        if(dq.size()<maxSize){
             dq.push_front(value);
             return true;
         }
-        return false; // Deque is full
+        return false;
     }
     
-    // Adds an item at the rear of Deque. Returns true if successful, false otherwise.
     bool insertLast(int value) {
-        if (dq.size() < maxSize) {
+         if(dq.size()<maxSize){
             dq.push_back(value);
             return true;
         }
-        return false; // Deque is full
+        return false;
     }
     
-    // Deletes an item from the front of Deque. Returns true if successful, false otherwise.
     bool deleteFront() {
-        if (!dq.empty()) {
+        if(!dq.empty()){
             dq.pop_front();
             return true;
         }
-        return false; // Deque is empty
+        return false;
     }
     
-    // Deletes an item from the rear of Deque. Returns true if successful, false otherwise.
     bool deleteLast() {
-        if (!dq.empty()) {
+        if(!dq.empty()){
             dq.pop_back();
             return true;
         }
-        return false; // Deque is empty
+        return false;
     }
-
-    // Returns the front item from Deque. Returns -1 if the deque is empty.
+    
     int getFront() {
-        if (!dq.empty()) {
-            return dq.front();
+        if(!dq.empty()){
+           return dq.front();
         }
-        return -1; // Deque is empty
+        return -1;
     }
     
-    // Returns the last item from Deque. Returns -1 if the deque is empty.
     int getRear() {
-        if (!dq.empty()) {
-            return dq.back();
+        if(!dq.empty()){
+           return dq.back();
         }
-        return -1; // Deque is empty
+        return -1;
     }
     
-    // Returns true if the deque is empty, false otherwise.
     bool isEmpty() {
         return dq.empty();
     }
-
-    // Returns true if the deque is full, false otherwise.
+    
     bool isFull() {
         return dq.size() == maxSize;
     }
