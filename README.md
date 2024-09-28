@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
