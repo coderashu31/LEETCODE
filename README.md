@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
