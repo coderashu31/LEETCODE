@@ -16,9 +16,11 @@ public:
         }
 
         nums.clear();
-        for(int n:st){
-            nums.push_back(n);
-        }
+        // for(int n:st){
+        //     nums.push_back(n);
+        // }
+
+        nums.assign(st.begin(),st.end());
         
 
         return st.size();
