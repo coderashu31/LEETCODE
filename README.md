@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
