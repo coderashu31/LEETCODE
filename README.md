@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0038-count-and-say) |
+| [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
