@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Divide and Conquer
 |  |
@@ -82,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
+| [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
+| [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
