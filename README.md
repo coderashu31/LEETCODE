@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
