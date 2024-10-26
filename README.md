@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0283-move-zeroes) |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
