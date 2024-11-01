@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0283-move-zeroes) |
 ## Sorting
