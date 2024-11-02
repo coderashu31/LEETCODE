@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
+| [2580-circular-sentence](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2580-circular-sentence) |
 ## Array
 |  |
 | ------- |
