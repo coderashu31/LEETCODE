@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
+| [1542-consecutive-characters](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1542-consecutive-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2580-circular-sentence) |
 ## Array
