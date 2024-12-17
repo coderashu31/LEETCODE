@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1542-consecutive-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2580-circular-sentence) |
 ## Array
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2032-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
