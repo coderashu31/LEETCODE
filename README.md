@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
+| [0680-valid-palindrome-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
