@@ -1,28 +1,24 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        // Remove extra spaces and split words
-        vector<string> words;
-        string temp = "";
-        for (char c : s) {
-            if (c != ' ') {
-                temp += c; // Collect characters for a word
-            } else if (!temp.empty()) {
-                words.push_back(temp); // Add completed word
-                temp = ""; // Reset temp
+        int n = s.length();
+        string ans = "";
+
+        reverse(s.begin(),s.end());
+
+        for(int i=0;i<s.length();i++){
+            string word ="";
+            while(i<n && s[i]!=' '){
+                word += s[i];
+                i++;
+            }
+
+            reverse(word.begin(),word.end());
+            if(word.length()>0){
+                ans += " " + word;
             }
         }
-        if (!temp.empty()) words.push_back(temp); // Add the last word
 
-        // Reverse the order of words
-        reverse(words.begin(), words.end());
-
-        // Join words with a single space
-        string ans = "";
-        for (int i = 0; i < words.size(); i++) {
-            ans += words[i];
-            if (i != words.size() - 1) ans += " ";
-        }
-        return ans;
+        return ans.substr(1);
     }
 };
