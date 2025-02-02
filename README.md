@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
