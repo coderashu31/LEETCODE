@@ -9,7 +9,7 @@ public:
             if(ch == '(' || ch == '[' || ch == '{'){
             // got open bracket
             st.push(ch);
-        } else {
+            } else {
             if(!st.empty()){
                 // got closed bracket
                 if(ch == ')' && st.top() == '('){
@@ -27,8 +27,6 @@ public:
             }
         }
         }
-
-        
         if (st.size() == 0){
             return true;
         } else {
