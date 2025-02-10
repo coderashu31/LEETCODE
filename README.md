@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0151-reverse-words-in-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
