@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
