@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0496-next-greater-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
