@@ -4,16 +4,23 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
         
-        // Create a copy of the original matrix to track zero positions
-        vector<vector<int>> temp = matrix; 
+        vector<int> row(m, 0);
+        vector<int> col(n, 0);
         
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (temp[i][j] == 0) {
-                    // Set entire row to zero
-                    for (int k = 0; k < n; k++) matrix[i][k] = 0;
-                    // Set entire column to zero
-                    for (int k = 0; k < m; k++) matrix[k][j] = 0;
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(matrix[i][j] == 0){
+                    row[i] = 1;
+                    col[j] = 1;  
+                }
+            }
+        }
+
+        
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(row[i] == 1 || col[j] == 1){  
+                    matrix[i][j] = 0;
                 }
             }
         }
