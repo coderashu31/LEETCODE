@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/coderashu31/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/coderashu31/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/coderashu31/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
