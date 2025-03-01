@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2551-apply-operations-to-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/coderashu31/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/coderashu31/LEETCODE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0680-valid-palindrome-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/coderashu31/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Trie
 |  |
