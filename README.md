@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/coderashu31/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/coderashu31/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/1256-rank-transform-of-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/coderashu31/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [2308-divide-array-into-equal-pairs](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/coderashu31/Love-Babbar-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
